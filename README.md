@@ -82,9 +82,4 @@ Digite cada valor e pressione Enter.
 Ao final, o programa exibirá a chance de admissão em percentual.
 
 
-## Problemas comuns
-
-Erro “No module named”**: Verifique se as dependências estão instaladas (`pip install ...`).
-Arquivo do modelo não encontrado**: Coloque `modelo_treinado.keras` na pasta correta.
-Problemas ao ativar o ambiente virtual**: Veja o passo do `Set-ExecutionPolicy` acima.
 
